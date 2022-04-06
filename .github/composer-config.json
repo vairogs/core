@@ -1,9 +1,0 @@
-{
-    "config": {
-        "platform-check": false,
-        "preferred-install": {
-            "vairogs/*": "source",
-            "*": "dist"
-        }
-    }
-}
